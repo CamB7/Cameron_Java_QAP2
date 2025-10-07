@@ -37,6 +37,13 @@ public class MyRectangle {
 		this.bottomRight = bottomRight;
 	}
 
+	// Added for CampusMap
+	public MyPoint getCenter() {
+		int centerX = (topLeft.getX() + bottomRight.getX()) / 2;
+		int centerY = (topLeft.getY() + bottomRight.getY()) / 2;
+		return new MyPoint(centerX, centerY);
+	}
+
 
 	// Properties
 	public int getWidth() {
