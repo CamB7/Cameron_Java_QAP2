@@ -8,7 +8,7 @@ Estimated breakdown by problem:
 
 * **Problem 1**: ~1 hour
 * **Problem 2**: ~1 hour
-* **Problem 3**: ~1.5 hour
+* **Problem 3**: ~1.5 hours
 * **Problem 4**: ~2.5 hours
 
 ## Resources Used
