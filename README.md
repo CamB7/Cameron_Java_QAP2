@@ -2,13 +2,13 @@
 
 ## Time Spent
 
-Total time spent on this assessment: **5.5 hours**
+Total time spent on this assessment: **6 hours**
 
 Estimated breakdown by problem:
 
 * **Problem 1**: ~1 hour
 * **Problem 2**: ~1 hour
-* **Problem 3**: ~1 hour
+* **Problem 3**: ~1.5 hour
 * **Problem 4**: ~2.5 hours
 
 ## Resources Used
